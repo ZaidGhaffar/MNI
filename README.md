@@ -33,6 +33,9 @@ we have 5 main registers in it:
 (Used to send or receive data)
 
 
+Aura Dracula Spirit theme -
+
+
 # in order to solve Question we need to focous on:
 - intrupt
 - Timer 
